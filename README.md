@@ -1,9 +1,3 @@
-
-      vfs-peds        
-                       
-    Created by Vito    
-    Discord: @.vitoo.
-
 # A script that allows saving ped models for specific users and automatically loads the model when they join the server.
 ### Usefull for clothing scripts that don't support ped changing like illenium-appearance.
 
