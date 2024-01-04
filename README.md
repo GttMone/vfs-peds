@@ -25,7 +25,7 @@
 ## Contact information:
 ### • Website: https://gttmone.vercel.app/
 ### • Discord: @.vitoo.
-### • Email: davidgospodinov10@gmail.com
+### • Email: gttmone10@gmail.com
 ### • GitHub: https://github.com/GttMone
 
 ## Support me:
